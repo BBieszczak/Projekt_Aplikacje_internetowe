@@ -11,10 +11,10 @@
 <br>
 
 **Autor:** Bartosz Bieszczak  
-**Numer indeksu:** .......................  
+**Numer indeksu:** 135025 
 **Przedmiot:** Aplikacje Internetowe  
 **Kierunek, rok:** Informatyka i Ekonometria, II rok  
-**Grupa laboratoryjna:** .......................  
+**Grupa laboratoryjna:** Lab 01
 **Data:** 11.06.2026  
 **Rok akademicki:** 2025/2026  
 
